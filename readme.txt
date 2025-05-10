@@ -1,6 +1,6 @@
-Documentação do Site NetVeloz - Provedor de Internet
+Documentação do Site X-NET - Provedor de Internet
 1. Visão Geral
-O site NetVeloz é uma plataforma moderna para um provedor de serviços de internet, desenvolvido com foco em:
+O site X-NET é uma plataforma moderna para um provedor de serviços de internet, desenvolvido com foco em:
 
 UI/UX: Interface intuitiva e experiência do usuário otimizada
 
@@ -12,7 +12,7 @@ Conversão: Foco em conversão de visitantes em clientes
 
 2. Estrutura do Projeto
 Copy
-netveloz/
+X-NET/
 ├── index.html          # Página principal
 ├── assets/
 │   ├── css/
@@ -273,4 +273,4 @@ Layout quebrado	Verificar meta viewport
 12. Licença
 Código livre para uso e modificação, com atribuição recomendada.
 
-Esta documentação cobre todos os aspectos técnicos e funcionais do site NetVeloz, servindo como referência para desenvolvedores, designers e gestores do projeto.
+Esta documentação cobre todos os aspectos técnicos e funcionais do site X-NET, servindo como referência para desenvolvedores, designers e gestores do projeto.
